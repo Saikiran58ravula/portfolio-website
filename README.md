@@ -2,7 +2,7 @@
 
 A fully responsive personal portfolio website built using **HTML, CSS, and JavaScript**, designed to showcase my skills, projects, and professional background as a B.Tech Computer Science graduate.
 
-🔗 **Live Demo:** [Add your deployed link here]
+🔗 **Live Demo:** [https://saikiran58ravula.github.io/PORTFOLIO-WEBSITE/]
 
 ---
 
